@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/unycfd/unycfd/releases"><img src="https://img.shields.io/github/v/release/unycfd/unycfd?include_prereleases&style=flat-square&color=blue" alt="Latest Release"></a>
   <a href="https://github.com/unycfd/unycfd/actions"><img src="https://img.shields.io/github/actions/workflow/status/unycfd/unycfd/ci.yml?branch=main&style=flat-square" alt="CI Status"></a>
-  <a href="https://github.com/unycfd/unycfd/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT%2FApache--2.0-blue?style=flat-square" alt="License"></a>
+  <a href="https://github.com/unycfd/unycfd/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-BSD--3--Clause-blue?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/memory-&lt;%203%20MB%20RSS-brightgreen?style=flat-square" alt="Memory Footprint">
 </p>
 
